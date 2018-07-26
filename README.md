@@ -1,3 +1,1 @@
-# community-token
-Hi everyone...........
-we are dedicated team of developers working on a community token build on ethereum smart contract.
+
